@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "qs": "0.6.0"
+    "qs": "6.9.3"
   },
   "homepage": "https://github.com/ashleygwilliams/my_package"
 }
